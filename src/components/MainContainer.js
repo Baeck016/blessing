@@ -2,9 +2,6 @@ import { chakra, Flex, Heading, Text } from "@chakra-ui/react";
 import Gatcha from "./Gatcha";
 
 const MainContainer = () => {
-  const width = window.innerWidth;
-  const height = window.innerHeight;
-
   return (
     <chakra.main minH="100%" minW="100%" flex={1} id="main-container">
       <Flex
