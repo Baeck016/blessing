@@ -100,32 +100,144 @@ never lose ur sillyness broda (:`,
     mediaSrc: "/images/leeanne-fav-memory-1.jpeg",
   },
   {
-    id: 9,
+    id: 10,
     sender: "FAVOURITE MEMORY",
     message: `bro learning how to take selfies in japan`,
     mediaType: "image",
     mediaSrc: "/images/leeanne-fav-memory-2.jpeg",
   },
   {
-    id: 10,
+    id: 11,
     sender: "FAVOURITE MEMORY",
     message: ``,
     mediaType: "image",
     mediaSrc: "/images/ethan-fav-memory-1.jpeg",
   },
   {
-    id: 11,
+    id: 12,
     sender: "FAVOURITE MEMORY",
     message: `I lov our planning meetings`,
     mediaType: "image",
     mediaSrc: "/images/ethan-fav-memory-2.jpeg",
   },
   {
-    id: 12,
+    id: 13,
     sender: "FAVOURITE MEMORY",
     message: ``,
     mediaType: "video",
     mediaSrc: "/images/fav-memory-vid.mp4",
+  },
+  {
+    id: 14,
+    sender: "David",
+    message: `Yow Kris! Woah I heard the news that you are transitioning into a different campus. It has indeed been a very long year serving in HKUST campus, from a regular member, to salt, leader then ET and campus leader for HKUST campus. It has been such a joy bro being part of your journey thoughout the years. There were so many moments that I can’t count how God really used you to speak the truth to my life and to people around you. It was very much evident how much God was working in you and through you bro. Will really miss being in the same campus but hey i will be waiting for you in city ministry haha.
+
+I know there are some transitions happening in ministry context but will be keeping you in prayers bro. That you will not try to go through this alone but learn to open up and involve people around you who will love and care for you (even though it might not be the way you expect it to be 🙂) Continue to be led by the spirit bro as you pause and go back to God. Been really encouraged to see how you have been making decisions out of faith. Excited for the next chapter of your life and please learn to pause and trust in God and people around you!`,
+    mediaType: "image",
+    mediaSrc: "images/david.jpeg",
+  },
+  {
+    id: 15,
+    sender: "BIBLE VERSES",
+    message: `Deuteronomy 31:8 "The Lord himself goes before you and will be with you; he will never leave you nor forsake you. Do not be afraid; do not be discouraged.”`,
+    mediaType: "image",
+    mediaSrc: "/images/AYW.jpg",
+  },
+  {
+    id: 16,
+    sender: "BIBLE VERSES",
+    message: `Psalm 9:1 “I will give thanks to the Lord with my whole heart; I will recount all of your wonderful deeds.”`,
+    mediaType: "image",
+    mediaSrc: "/images/ETA_ Kris_fav_moment.jpg",
+  },
+  {
+    id: 17,
+    sender: "BIBLE VERSES",
+    message: `Philippians 1:6 “And I am sure of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ.”`,
+    mediaType: "image",
+    mediaSrc: "/images/Finesse_ First_LG_leadin.jpg",
+  },
+  {
+    id: 18,
+    sender: "BIBLE VERSES",
+    message: `Romans 8:38-39 “For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.”`,
+    mediaType: "image",
+    mediaSrc: "/images/Flare_ Kris_ highlight.jpg",
+  },
+  {
+    id: 19,
+    sender: "BIBLE VERSES",
+    message: `Psalm 23:1-4 "The Lord is my shepherd, I lack nothing.
+2     He makes me lie down in green pastures,
+he leads me beside quiet waters,
+3     he refreshes my soul.
+He guides me along the right paths
+    for his name’s sake.
+4 Even though I walk
+    through the darkest valley,
+I will fear no evil,
+    for you are with me;
+your rod and your staff,
+    they comfort me."`,
+    mediaType: "image",
+    mediaSrc: "/images/Kris_SALT.jpeg",
+  },
+  {
+    id: 20,
+    sender: "WORSHIP SONG",
+    message: `God I’m Just Grateful (Chandler Moore and Elevation Worship)`,
+    mediaType: "image",
+    mediaSrc: "/images/Kris UST Campus leader (3).jpg",
+  },
+  {
+    id: 21,
+    sender: "WORSHIP SONG",
+    message: `As You Find Me (Hillsong UNITED)`,
+    mediaType: "image",
+    mediaSrc: "/images/KRIS_ BAPTISM.jpg",
+  },
+  {
+    id: 22,
+    sender: "WORSHIP SONG",
+    message: `Sing of This (Bethel)`,
+    mediaType: "image",
+    mediaSrc: "/images/Kris_ First LG.jpeg",
+  },
+  {
+    id: 23,
+    sender: "WORSHIP SONG",
+    message: `LILAC (IU) - not only is this kinda ur fav color but it talks about happy goodbye and being excited for the change after all the different season one has experienced. Hoho praying you can WHOLEHEARTEDLY sing its a happy thing💜`,
+    mediaType: "image",
+    mediaSrc: "/images/Kris_ First UST LT.jpeg",
+  },
+  {
+    id: 24,
+    sender: "WORSHIP SONG",
+    message: `Move Your Heart (Maverick City Music and UPPERROOM) - woah just reminded of that one prayer when you taught/led this song hehe praying that you can joyfully just focus on God's heart and also His heart for you above all else !! :) to just burn with the desire to love Him as you are SO touched and moved and loved and fueled by Him.`,
+    mediaType: "image",
+    mediaSrc: "/images/KRIS_ UST LT (2).jpeg",
+  },
+  {
+    id: 25,
+    sender: "WORSHIP SONG",
+    message: `Here Again (Elevation Worship) - Krisss Trust in the Lord who is good and wherever you are HE is there with you and He will work through and in you!!! He will do His great things again and again! In your weakness His glory will SHINE!!`,
+    mediaType: "image",
+    mediaSrc: "/images/Palette.jpg",
+  },
+  {
+    id: 26,
+    sender: "WORSHIP SONG",
+    message: `Sukidakara (Yuika)`,
+    mediaType: "image",
+    mediaSrc: "/images/UNO.jpg",
+  },
+  {
+    id: 27,
+    sender: "FAVOURITE MEMORY",
+    message: `I can still vividly remember when we were trying to rush to push some quick changes for the giving tuesday (I think) haha. I was so stressed but i like how you were making puns behind me haha, but it helped me calm down and we were able to push it haha
+    But I couldn't find that picture so my second favourite memory is camping with you haha, IT WAS SO CHAOTIC hahaha but SO FUNNN.`,
+    mediaType: "image",
+    mediaSrc: "/images/david-fav-memory.jpeg",
   },
 ];
 
@@ -440,7 +552,7 @@ const Gatcha = () => {
                 ) : (
                   <Image
                     src={openedCapsule?.mediaSrc}
-                    alt="Gacha reward"
+                    alt="Gacha Image"
                     w="100%"
                     maxH={{ base: "42dvh", md: "340px" }}
                     objectFit="contain"
