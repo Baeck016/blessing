@@ -1,4 +1,5 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
+
 import {
   Box,
   Button,
@@ -364,7 +365,24 @@ const Gatcha = () => {
     setLastColorIndex(null);
   };
 
-  const handleTurn = () => {
+  const audioRef = useRef(null);
+  const [musicStarted, setMusicStarted] = useState(false);
+
+  const startBgm = async () => {
+    if (!audioRef.current || musicStarted) return;
+
+    try {
+      audioRef.current.volume = 0.35;
+      await audioRef.current.play();
+      setMusicStarted(true);
+    } catch (error) {
+      console.log("Audio blocked until user interaction.");
+    }
+  };
+
+  const handleTurn = async () => {
+    await startBgm();
+
     if (currentCapsule || isRewardOpen) return;
 
     if (queueIndex >= queue.length) {
@@ -418,6 +436,12 @@ const Gatcha = () => {
       justifyContent="center"
       overflow="hidden"
     >
+      <audio ref={audioRef} loop preload="auto">
+        <source
+          src={`${process.env.PUBLIC_URL}/audio/bgm.mp3`}
+          type="audio/mpeg"
+        />
+      </audio>
       <Box
         position="relative"
         h={{ base: "55dvh", md: "80vh" }}
